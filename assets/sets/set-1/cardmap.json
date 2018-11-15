@@ -1,0 +1,1789 @@
+{
+  "entries": [
+    {
+      "cardName": "Venomancer",
+      "cardId": 10001,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Venomous Nature",
+      "cardId": 10491,
+      "cardType": "Passive Ability"
+    },
+    {
+      "cardName": "Sow Venom",
+      "cardId": 10002,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Plague Ward",
+      "cardId": 10003,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Meepo",
+      "cardId": 10004,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Poof",
+      "cardId": 10429,
+      "cardType": "Ability"
+    },
+    {
+      "cardName": "United We Fall",
+      "cardId": 10490,
+      "cardType": "Passive Ability"
+    },
+    {
+      "cardName": "Divided We Stand",
+      "cardId": 10005,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Luna",
+      "cardId": 10006,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Lucent Beam",
+      "cardId": 10489,
+      "cardType": "Passive Ability"
+    },
+    {
+      "cardName": "Eclipse",
+      "cardId": 10007,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Winter Wyvern",
+      "cardId": 10010,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Arctic Burn",
+      "cardId": 10430,
+      "cardType": "Ability"
+    },
+    {
+      "cardName": "Winter's Curse",
+      "cardId": 10011,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Lycan",
+      "cardId": 10014,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Feral Impulse",
+      "cardId": 10494,
+      "cardType": "Passive Ability"
+    },
+    {
+      "cardName": "Abaddon",
+      "cardId": 10016,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Borrowed Time",
+      "cardId": 10431,
+      "cardType": "Ability"
+    },
+    {
+      "cardName": "Chen",
+      "cardId": 10017,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Holy Persuasion",
+      "cardId": 10432,
+      "cardType": "Ability"
+    },
+    {
+      "cardName": "Bloodseeker",
+      "cardId": 10018,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Blood Bath",
+      "cardId": 10496,
+      "cardType": "Passive Ability"
+    },
+    {
+      "cardName": "Axe",
+      "cardId": 10020,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Centaur Warrunner",
+      "cardId": 10021,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Return",
+      "cardId": 10497,
+      "cardType": "Passive Ability"
+    },
+    {
+      "cardName": "Timbersaw",
+      "cardId": 10022,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Reactive Armor",
+      "cardId": 10498,
+      "cardType": "Passive Ability"
+    },
+    {
+      "cardName": "Bounty Hunter",
+      "cardId": 10023,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Jinada",
+      "cardId": 10499,
+      "cardType": "Passive Ability"
+    },
+    {
+      "cardName": "Tidehunter",
+      "cardId": 10024,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Ravage",
+      "cardId": 10434,
+      "cardType": "Ability"
+    },
+    {
+      "cardName": "Tinker",
+      "cardId": 10025,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Laser",
+      "cardId": 10435,
+      "cardType": "Ability"
+    },
+    {
+      "cardName": "Rix",
+      "cardId": 10026,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Relentless Rebel",
+      "cardId": 10500,
+      "cardType": "Passive Ability"
+    },
+    {
+      "cardName": "Viper",
+      "cardId": 10028,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Corrosive Skin",
+      "cardId": 10501,
+      "cardType": "Passive Ability"
+    },
+    {
+      "cardName": "Beastmaster",
+      "cardId": 10029,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Call of the Wild",
+      "cardId": 10437,
+      "cardType": "Ability"
+    },
+    {
+      "cardName": "Bristleback",
+      "cardId": 10030,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Barroom Brawler",
+      "cardId": 10502,
+      "cardType": "Passive Ability"
+    },
+    {
+      "cardName": "Kanna",
+      "cardId": 10031,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Bringer of Conquest",
+      "cardId": 10503,
+      "cardType": "Passive Ability"
+    },
+    {
+      "cardName": "Drow Ranger",
+      "cardId": 10032,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Precision Aura",
+      "cardId": 10504,
+      "cardType": "Passive Ability"
+    },
+    {
+      "cardName": "Earthshaker",
+      "cardId": 10033,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Fissure",
+      "cardId": 10438,
+      "cardType": "Ability"
+    },
+    {
+      "cardName": "Enchantress",
+      "cardId": 10036,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Nature's Attendants",
+      "cardId": 10506,
+      "cardType": "Passive Ability"
+    },
+    {
+      "cardName": "Lich",
+      "cardId": 10038,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Sacrifice",
+      "cardId": 10440,
+      "cardType": "Ability"
+    },
+    {
+      "cardName": "Ogre Magi",
+      "cardId": 10043,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Multicast",
+      "cardId": 10509,
+      "cardType": "Passive Ability"
+    },
+    {
+      "cardName": "Omniknight",
+      "cardId": 10044,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Purification",
+      "cardId": 10443,
+      "cardType": "Ability"
+    },
+    {
+      "cardName": "Outworld Devourer",
+      "cardId": 10046,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Essence Aura",
+      "cardId": 10511,
+      "cardType": "Passive Ability"
+    },
+    {
+      "cardName": "Phantom Assassin",
+      "cardId": 10047,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Efficient Killer",
+      "cardId": 10512,
+      "cardType": "Passive Ability"
+    },
+    {
+      "cardName": "Pugna",
+      "cardId": 10048,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Nether Blast",
+      "cardId": 10444,
+      "cardType": "Ability"
+    },
+    {
+      "cardName": "Sniper",
+      "cardId": 10050,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Headshot",
+      "cardId": 10446,
+      "cardType": "Ability"
+    },
+    {
+      "cardName": "Mazzie",
+      "cardId": 10052,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Prellex",
+      "cardId": 10053,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Bringer of the Faithful",
+      "cardId": 10523,
+      "cardType": "Passive Ability"
+    },
+    {
+      "cardName": "Sven",
+      "cardId": 10054,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Great Cleave",
+      "cardId": 10513,
+      "cardType": "Passive Ability"
+    },
+    {
+      "cardName": "Treant Protector",
+      "cardId": 10056,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Branches of Iron",
+      "cardId": 10514,
+      "cardType": "Passive Ability"
+    },
+    {
+      "cardName": "Sorla Khan",
+      "cardId": 10058,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Warmonger",
+      "cardId": 10516,
+      "cardType": "Passive Ability"
+    },
+    {
+      "cardName": "Necrophos",
+      "cardId": 10059,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Sadist",
+      "cardId": 10517,
+      "cardType": "Passive Ability"
+    },
+    {
+      "cardName": "Lion",
+      "cardId": 10060,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Finger of Death",
+      "cardId": 10449,
+      "cardType": "Ability"
+    },
+    {
+      "cardName": "Skywrath Mage",
+      "cardId": 10062,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Concussive Shot",
+      "cardId": 10451,
+      "cardType": "Ability"
+    },
+    {
+      "cardName": "Mystic Flare",
+      "cardId": 10063,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Crystal Maiden",
+      "cardId": 10064,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Arcane Aura",
+      "cardId": 10518,
+      "cardType": "Passive Ability"
+    },
+    {
+      "cardName": "Static Field",
+      "cardId": 10519,
+      "cardType": "Passive Ability"
+    },
+    {
+      "cardName": "Zeus",
+      "cardId": 10065,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Magnus",
+      "cardId": 10067,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Dark Seer",
+      "cardId": 10068,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Surge",
+      "cardId": 10452,
+      "cardType": "Ability"
+    },
+    {
+      "cardName": "Legion Commander",
+      "cardId": 10069,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Moment of Courage",
+      "cardId": 10520,
+      "cardType": "Passive Ability"
+    },
+    {
+      "cardName": "Ursa",
+      "cardId": 10070,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Fury Swipes",
+      "cardId": 10521,
+      "cardType": "Passive Ability"
+    },
+    {
+      "cardName": "Smeevil Armsmaster",
+      "cardId": 10076,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Sister of the Veil",
+      "cardId": 10077,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Sister of the Veil",
+      "cardId": 10454,
+      "cardType": "Ability"
+    },
+    {
+      "cardName": "Tyler Estate Censor",
+      "cardId": 10078,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Smeevil Blacksmith",
+      "cardId": 10079,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Rebel Decoy",
+      "cardId": 10080,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Rebel Decoy",
+      "cardId": 10455,
+      "cardType": "Ability"
+    },
+    {
+      "cardName": "Centaur Hunter",
+      "cardId": 10082,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Pit Fighter of Quoidge",
+      "cardId": 10083,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Rebel Instigator",
+      "cardId": 10084,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Assassin's Shadow",
+      "cardId": 10085,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Disciple of Nevermore",
+      "cardId": 10086,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Legion Standard Bearer",
+      "cardId": 10087,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Relentless Zombie",
+      "cardId": 10090,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Revtel Convoy",
+      "cardId": 10091,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Oglodi Vandal",
+      "cardId": 10092,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Hound of War",
+      "cardId": 10093,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Mercenary Exiles",
+      "cardId": 10094,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Mercenary Exiles",
+      "cardId": 10456,
+      "cardType": "Ability"
+    },
+    {
+      "cardName": "Keenfolk Golem",
+      "cardId": 10095,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Emissary of the Quorum",
+      "cardId": 10096,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Emissary of the Quorum",
+      "cardId": 10457,
+      "cardType": "Ability"
+    },
+    {
+      "cardName": "Marrowfell Brawler",
+      "cardId": 10097,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Thunderhide Pack",
+      "cardId": 10102,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Ogre Corpse Tosser",
+      "cardId": 10103,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Bronze Legionnaire",
+      "cardId": 10104,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Incarnation of Selemene",
+      "cardId": 10106,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Vhoul Martyr",
+      "cardId": 10107,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Thunderhide Alpha",
+      "cardId": 10108,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Satyr Duelist",
+      "cardId": 10111,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Savage Wolf",
+      "cardId": 10112,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Rampaging Hellbear",
+      "cardId": 10113,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Cursed Satyr",
+      "cardId": 10114,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Ravenhook",
+      "cardId": 10115,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Ravenhook",
+      "cardId": 10524,
+      "cardType": "Ability"
+    },
+    {
+      "cardName": "Ravenous Mass",
+      "cardId": 10116,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Ravenous Mass",
+      "cardId": 10459,
+      "cardType": "Ability"
+    },
+    {
+      "cardName": "Roseleaf Druid",
+      "cardId": 10117,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Hellbear Crippler",
+      "cardId": 10118,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Selfish Cleric",
+      "cardId": 10119,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Roseleaf Wall",
+      "cardId": 10120,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Ogre Conscript",
+      "cardId": 10127,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Untested Grunt",
+      "cardId": 10128,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Assassin's Apprentice",
+      "cardId": 10129,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Assassin's Apprentice",
+      "cardId": 10543,
+      "cardType": "Ability"
+    },
+    {
+      "cardName": "Stonehall Elite",
+      "cardId": 10131,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Red Mist Pillager",
+      "cardId": 10132,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Champion of the Ancient",
+      "cardId": 10133,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Roseleaf Rejuvenator",
+      "cardId": 10134,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Loyal Beast",
+      "cardId": 10136,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Satyr Magician",
+      "cardId": 10137,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Troll Soothsayer",
+      "cardId": 10138,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Assured Destruction",
+      "cardId": 10141,
+      "cardType": "Improvement"
+    },
+    {
+      "cardName": "Barracks",
+      "cardId": 10147,
+      "cardType": "Improvement"
+    },
+    {
+      "cardName": "Fractured Timeline",
+      "cardId": 10148,
+      "cardType": "Improvement"
+    },
+    {
+      "cardName": "Unearthed Secrets",
+      "cardId": 10149,
+      "cardType": "Improvement"
+    },
+    {
+      "cardName": "Path of the Cunning",
+      "cardId": 10150,
+      "cardType": "Improvement"
+    },
+    {
+      "cardName": "Path of the Wise",
+      "cardId": 10151,
+      "cardType": "Improvement"
+    },
+    {
+      "cardName": "Path of the Dreamer",
+      "cardId": 10152,
+      "cardType": "Improvement"
+    },
+    {
+      "cardName": "Path of the Bold",
+      "cardId": 10153,
+      "cardType": "Improvement"
+    },
+    {
+      "cardName": "The Tyler Estate",
+      "cardId": 10154,
+      "cardType": "Improvement"
+    },
+    {
+      "cardName": "Homefield Advantage",
+      "cardId": 10155,
+      "cardType": "Improvement"
+    },
+    {
+      "cardName": "Bitter Enemies",
+      "cardId": 10156,
+      "cardType": "Improvement"
+    },
+    {
+      "cardName": "Conflagration",
+      "cardId": 10157,
+      "cardType": "Improvement"
+    },
+    {
+      "cardName": "Ignite",
+      "cardId": 10160,
+      "cardType": "Improvement"
+    },
+    {
+      "cardName": "Trebuchets",
+      "cardId": 10161,
+      "cardType": "Improvement"
+    },
+    {
+      "cardName": "Unsupervised Artillery",
+      "cardId": 10162,
+      "cardType": "Improvement"
+    },
+    {
+      "cardName": "Unsupervised Artillery",
+      "cardId": 10462,
+      "cardType": "Ability"
+    },
+    {
+      "cardName": "Revtel Investments",
+      "cardId": 10164,
+      "cardType": "Improvement"
+    },
+    {
+      "cardName": "Revtel Investments",
+      "cardId": 10463,
+      "cardType": "Ability"
+    },
+    {
+      "cardName": "Iron Fog Goldmine",
+      "cardId": 10165,
+      "cardType": "Improvement"
+    },
+    {
+      "cardName": "Selemene's Favor",
+      "cardId": 10168,
+      "cardType": "Improvement"
+    },
+    {
+      "cardName": "Mist of Avernus",
+      "cardId": 10169,
+      "cardType": "Improvement"
+    },
+    {
+      "cardName": "Altar of the Mad Moon",
+      "cardId": 10170,
+      "cardType": "Improvement"
+    },
+    {
+      "cardName": "Howling Mind",
+      "cardId": 10171,
+      "cardType": "Improvement"
+    },
+    {
+      "cardName": "Temple of War",
+      "cardId": 10172,
+      "cardType": "Improvement"
+    },
+    {
+      "cardName": "Nether Ward",
+      "cardId": 10173,
+      "cardType": "Improvement"
+    },
+    {
+      "cardName": "Burning Oil",
+      "cardId": 10174,
+      "cardType": "Improvement"
+    },
+    {
+      "cardName": "Aghanim's Sanctum",
+      "cardId": 10175,
+      "cardType": "Improvement"
+    },
+    {
+      "cardName": "Aghanim's Sanctum",
+      "cardId": 10464,
+      "cardType": "Ability"
+    },
+    {
+      "cardName": "Satyr Magician",
+      "cardId": 10542,
+      "cardType": "Ability"
+    },
+    {
+      "cardName": "Escape Route",
+      "cardId": 10176,
+      "cardType": "Improvement"
+    },
+    {
+      "cardName": "Escape Route",
+      "cardId": 10465,
+      "cardType": "Ability"
+    },
+    {
+      "cardName": "Assault Ladders",
+      "cardId": 10177,
+      "cardType": "Improvement"
+    },
+    {
+      "cardName": "Grand Melee",
+      "cardId": 10178,
+      "cardType": "Improvement"
+    },
+    {
+      "cardName": "Steel Reinforcement",
+      "cardId": 10179,
+      "cardType": "Improvement"
+    },
+    {
+      "cardName": "Messenger Rookery",
+      "cardId": 10180,
+      "cardType": "Improvement"
+    },
+    {
+      "cardName": "Messenger Rookery",
+      "cardId": 10466,
+      "cardType": "Ability"
+    },
+    {
+      "cardName": "Cheating Death",
+      "cardId": 10181,
+      "cardType": "Improvement"
+    },
+    {
+      "cardName": "The Oath",
+      "cardId": 10182,
+      "cardType": "Improvement"
+    },
+    {
+      "cardName": "The Omexe Arena",
+      "cardId": 10183,
+      "cardType": "Improvement"
+    },
+    {
+      "cardName": "Keenfolk Turret",
+      "cardId": 10184,
+      "cardType": "Improvement"
+    },
+    {
+      "cardName": "Keenfolk Turret",
+      "cardId": 10467,
+      "cardType": "Ability"
+    },
+    {
+      "cardName": "Steam Cannon",
+      "cardId": 10185,
+      "cardType": "Improvement"
+    },
+    {
+      "cardName": "Steam Cannon",
+      "cardId": 10468,
+      "cardType": "Ability"
+    },
+    {
+      "cardName": "Glyph of Confusion",
+      "cardId": 10187,
+      "cardType": "Improvement"
+    },
+    {
+      "cardName": "Rumusque Blessing",
+      "cardId": 10192,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Verdant Refuge",
+      "cardId": 10193,
+      "cardType": "Improvement"
+    },
+    {
+      "cardName": "Watchtower",
+      "cardId": 10194,
+      "cardType": "Improvement"
+    },
+    {
+      "cardName": "Assassin's Veil",
+      "cardId": 10202,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Assassin's Veil",
+      "cardId": 10469,
+      "cardType": "Ability"
+    },
+    {
+      "cardName": "Phase Boots",
+      "cardId": 10203,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Phase Boots",
+      "cardId": 10470,
+      "cardType": "Ability"
+    },
+    {
+      "cardName": "Stonehall Cloak",
+      "cardId": 10205,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Blink Dagger",
+      "cardId": 10206,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Blink Dagger",
+      "cardId": 10471,
+      "cardType": "Ability"
+    },
+    {
+      "cardName": "Revtel Signet Ring",
+      "cardId": 10207,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Barbed Mail",
+      "cardId": 10208,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Demagicking Maul",
+      "cardId": 10210,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Demagicking Maul",
+      "cardId": 10540,
+      "cardType": "Ability"
+    },
+    {
+      "cardName": "Obliterating Orb",
+      "cardId": 10211,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Blade of the Vigil",
+      "cardId": 10212,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Fur-lined Mantle",
+      "cardId": 10213,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Chainmail",
+      "cardId": 10214,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Broadsword",
+      "cardId": 10215,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Golden Ticket",
+      "cardId": 10216,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Rumusque Vestments",
+      "cardId": 10217,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Rumusque Vestments",
+      "cardId": 10473,
+      "cardType": "Ability"
+    },
+    {
+      "cardName": "Keenfolk Musket",
+      "cardId": 10218,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Keenfolk Musket",
+      "cardId": 10474,
+      "cardType": "Ability"
+    },
+    {
+      "cardName": "Ring of Tarrasque",
+      "cardId": 10220,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Bracers of Sacrifice",
+      "cardId": 10222,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Bracers of Sacrifice",
+      "cardId": 10476,
+      "cardType": "Ability"
+    },
+    {
+      "cardName": "Red Mist Maul",
+      "cardId": 10223,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Helm of the Dominator",
+      "cardId": 10224,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Helm of the Dominator",
+      "cardId": 10477,
+      "cardType": "Ability"
+    },
+    {
+      "cardName": "Vesture of the Tyrant",
+      "cardId": 10225,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Wingfall Hammer",
+      "cardId": 10226,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Wingfall Hammer",
+      "cardId": 10478,
+      "cardType": "Ability"
+    },
+    {
+      "cardName": "Ristul Emblem",
+      "cardId": 10230,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Cloak of Endless Carnage",
+      "cardId": 10231,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Seraphim Shield",
+      "cardId": 10232,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Poaching Knife",
+      "cardId": 10234,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Book of the Dead",
+      "cardId": 10235,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Book of the Dead",
+      "cardId": 10480,
+      "cardType": "Ability"
+    },
+    {
+      "cardName": "Hero's Cape",
+      "cardId": 10236,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Platemail",
+      "cardId": 10237,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Claymore",
+      "cardId": 10238,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Claszureme Hourglass",
+      "cardId": 10241,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Shield of Basilius",
+      "cardId": 10242,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Shield of Aquila",
+      "cardId": 10243,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Shiva's Guard",
+      "cardId": 10248,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Shiva's Guard",
+      "cardId": 10481,
+      "cardType": "Ability"
+    },
+    {
+      "cardName": "Stonehall Pike",
+      "cardId": 10252,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Stonehall Plate",
+      "cardId": 10253,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Shop Deed",
+      "cardId": 10255,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Jasper Daggers",
+      "cardId": 10256,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Keenfolk Plate",
+      "cardId": 10259,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Horn of the Alpha",
+      "cardId": 10260,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Horn of the Alpha",
+      "cardId": 10483,
+      "cardType": "Ability"
+    },
+    {
+      "cardName": "Nyctasha's Guard",
+      "cardId": 10262,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Nyctasha's Guard",
+      "cardId": 10484,
+      "cardType": "Ability"
+    },
+    {
+      "cardName": "Apotheosis Blade",
+      "cardId": 10263,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Apotheosis Blade",
+      "cardId": 10541,
+      "cardType": "Ability"
+    },
+    {
+      "cardName": "Corrosive Mist",
+      "cardId": 10142,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Routed",
+      "cardId": 10191,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "...And One For Me",
+      "cardId": 10196,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Rolling Storm",
+      "cardId": 10198,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Astral Imprisonment",
+      "cardId": 10267,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Lodestone Demolition",
+      "cardId": 10268,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Grazing Shot",
+      "cardId": 10270,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Assassinate",
+      "cardId": 10272,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Hip Fire",
+      "cardId": 10273,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Heartstopper Aura",
+      "cardId": 10274,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Mana Drain",
+      "cardId": 10275,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Frostbite",
+      "cardId": 10277,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Thundergod's Wrath",
+      "cardId": 10278,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Empower",
+      "cardId": 10280,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Ion Shell",
+      "cardId": 10281,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Enrage",
+      "cardId": 10282,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Aphotic Shield",
+      "cardId": 10287,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Berserker's Call",
+      "cardId": 10288,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Blood Rage",
+      "cardId": 10289,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Kraken Shell",
+      "cardId": 10290,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "March of the Machines",
+      "cardId": 10291,
+      "cardType": "Improvement"
+    },
+    {
+      "cardName": "Double Edge",
+      "cardId": 10292,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Primal Roar",
+      "cardId": 10293,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Viper Strike",
+      "cardId": 10294,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Arcane Censure",
+      "cardId": 10295,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Whirling Death",
+      "cardId": 10296,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Defensive Stance",
+      "cardId": 10297,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Lost in Time",
+      "cardId": 10298,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Defend the Weak",
+      "cardId": 10299,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Combat Training",
+      "cardId": 10300,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Self Sabotage",
+      "cardId": 10302,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Bellow",
+      "cardId": 10303,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Raze",
+      "cardId": 10305,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Smash Their Defenses!",
+      "cardId": 10306,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Foresight",
+      "cardId": 10307,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Coup de Grace",
+      "cardId": 10308,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Horde Catapult",
+      "cardId": 10310,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Arm the Rebellion",
+      "cardId": 10311,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Strafing Run",
+      "cardId": 10312,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Poised to Strike",
+      "cardId": 10313,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Dirty Deeds",
+      "cardId": 10314,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Annihilation",
+      "cardId": 10315,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Spot Weakness",
+      "cardId": 10316,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Curse of Atrophy",
+      "cardId": 10317,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Chain Frost",
+      "cardId": 10318,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Diabolic Revelation",
+      "cardId": 10319,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Payday",
+      "cardId": 10322,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Echo Slam",
+      "cardId": 10323,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Iron Branch Protection",
+      "cardId": 10324,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Prey on the Weak",
+      "cardId": 10325,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Enough Magic!",
+      "cardId": 10326,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Heroic Resolve",
+      "cardId": 10327,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Gank",
+      "cardId": 10328,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "God's Strength",
+      "cardId": 10330,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Wrath of Gold",
+      "cardId": 10331,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Murder Plot",
+      "cardId": 10332,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Stars Align",
+      "cardId": 10334,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Call the Reserves",
+      "cardId": 10335,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Better Late Than Never",
+      "cardId": 10336,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Divine Intervention",
+      "cardId": 10338,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Gust",
+      "cardId": 10339,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Hand of God",
+      "cardId": 10340,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Duel",
+      "cardId": 10341,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Pick A Fight",
+      "cardId": 10342,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Clear The Deck",
+      "cardId": 10344,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Defensive Bloom",
+      "cardId": 10347,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Allseeing One's Favor",
+      "cardId": 10348,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Rising Anger",
+      "cardId": 10349,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Sucker Punch",
+      "cardId": 10350,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Lightning Strike",
+      "cardId": 10352,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Bolt of Damocles",
+      "cardId": 10353,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Pick Off",
+      "cardId": 10354,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Dimensional Portal",
+      "cardId": 10355,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Restoration Effort",
+      "cardId": 10358,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Buying Time",
+      "cardId": 10359,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Friendly Fire",
+      "cardId": 10360,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Coordinated Assault",
+      "cardId": 10361,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Juke",
+      "cardId": 10365,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "New Orders",
+      "cardId": 10366,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Rend Armor",
+      "cardId": 10367,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Avernus' Blessing",
+      "cardId": 10368,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Fight Through The Pain",
+      "cardId": 10370,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Soul of Spring",
+      "cardId": 10373,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Arcane Assault",
+      "cardId": 10374,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Remote Detonation",
+      "cardId": 10376,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Fog of War",
+      "cardId": 10377,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Divine Purpose",
+      "cardId": 10378,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Intimidation",
+      "cardId": 10379,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Cleansing Rite",
+      "cardId": 10382,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Tresdin's Standards",
+      "cardId": 10385,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Compel",
+      "cardId": 10391,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Caught Unprepared",
+      "cardId": 10396,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Relentless Pursuit",
+      "cardId": 10399,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Tower Barrage",
+      "cardId": 10402,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Steal Strength",
+      "cardId": 10403,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "The Cover of Night",
+      "cardId": 10404,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Slay",
+      "cardId": 10410,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Cunning Plan",
+      "cardId": 10411,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Thunderstorm",
+      "cardId": 10412,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Forward Charge",
+      "cardId": 10413,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Collateral Damage",
+      "cardId": 10415,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Track",
+      "cardId": 10416,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Spring the Trap",
+      "cardId": 10417,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Ventriloquy",
+      "cardId": 10418,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Viscous Nasal Goo",
+      "cardId": 10419,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Act of Defiance",
+      "cardId": 10420,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Crippling Blow",
+      "cardId": 10421,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Whispers of Madness",
+      "cardId": 10422,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "At Any Cost",
+      "cardId": 10424,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Time of Triumph",
+      "cardId": 10425,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Storm Spirit",
+      "cardId": 10536,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Overload",
+      "cardId": 10537,
+      "cardType": "Passive Ability"
+    },
+    {
+      "cardName": "Ball Lightning",
+      "cardId": 10538,
+      "cardType": "Spell"
+    }
+  ]
+}
